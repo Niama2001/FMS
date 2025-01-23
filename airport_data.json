@@ -1,0 +1,219 @@
+[
+      {
+        "name": "Ouarzazate International Airport",
+        "icao_code": "GMMZ",
+        "latitude": 30.0,
+        "longitude": -6.9,
+        "type": "airport",
+        "elevation": 1160
+      },
+      {
+        "name": "Al Hoceima / Chérif El Idrissi International Airport",
+        "icao_code": "GMTA",
+        "latitude": 35.2,
+        "longitude": -3.9,
+        "type": "airport",
+        "elevation": 200
+      },
+      {
+        "name": "Tangier Ibn Batouta International Airport",
+        "icao_code": "GMTT",
+        "latitude": 35.7,
+        "longitude": -5.6,
+        "type": "airport",
+        "elevation": 21
+      },
+      {
+        "name": "Agadir – Al Massira Airport",
+        "icao_code": "GMAD",
+        "latitude": 30.4,
+        "longitude": -9.6,
+        "type": "airport",
+        "elevation": 663
+      },
+      {
+        "name": "Guelmime Airport",
+        "icao_code": "GMAG",
+        "latitude": 36.7,
+        "longitude": 3.2,
+        "type": "airport",
+        "elevation": 26
+      },
+      {
+        "name": "TAN-TAN plage blanche Airport",
+        "icao_code": "GMAT",
+        "latitude": 35.7,
+        "longitude": -5.6,
+        "type": "airport",
+        "elevation": 21
+      },
+      {
+        "name": "Zagora Airport",
+        "icao_code": "GMAZ",
+        "latitude": 34.6,
+        "longitude": -1.9,
+        "type": "airport",
+        "elevation": 600
+      },
+      {
+        "name": "Bouarfa Airport",
+        "icao_code": "GMFB",
+        "latitude": 34.0,
+        "longitude": -5.0,
+        "type": "airport",
+        "elevation": 550
+      },
+      {
+        "name": "Fès-Saïs International Airport",
+        "icao_code": "GMFF",
+        "latitude": 35.1,
+        "longitude": -2.9,
+        "type": "airport",
+        "elevation": 50
+      },
+      {
+        "name": "Ifrane Airport",
+        "icao_code": "GMFI",
+        "latitude": 31.6,
+        "longitude": -8.0,
+        "type": "airport",
+        "elevation": 466
+      },
+      {
+        "name": "Errachidia / Moulay Ali Cherif International Airport",
+        "icao_code": "GMFK",
+        "latitude": 34.3,
+        "longitude": -6.6,
+        "type": "airport",
+        "elevation": 30
+      },
+      {
+        "name": "Oujda – Angads International Airport",
+        "icao_code": "GMFO",
+        "latitude": 34.6,
+        "longitude": -1.9,
+        "type": "airport",
+        "elevation": 600
+      },
+      {
+        "name": "Benslimane Airport",
+        "icao_code": "GMMB",
+        "latitude": 33.9,
+        "longitude": -5.5,
+        "type": "airport",
+        "elevation": 500
+      },
+      {
+        "name": "Beni Mellal International Airport",
+        "icao_code": "GMMD",
+        "latitude": 31.6,
+        "longitude": -8.0,
+        "type": "airport",
+        "elevation": 466
+      },
+      {
+        "name": "Rabat – Salé International Airport",
+        "icao_code": "GMME",
+        "latitude": 35.1,
+        "longitude": -2.9,
+        "type": "airport",
+        "elevation": 50
+      },
+      {
+        "name": "Dakhla International Airport",
+        "icao_code": "GMMH",
+        "latitude": 34.0,
+        "longitude": -6.8,
+        "type": "airport",
+        "elevation": 50
+      },
+      {
+        "name": "Essaouira MOGADOR International Airport",
+        "icao_code": "GMMI",
+        "latitude": 33.5,
+        "longitude": -5.1,
+        "type": "airport",
+        "elevation": 1650
+      },
+      {
+        "name": "Laayoune Airport",
+        "icao_code": "GMML",
+        "latitude": 33.5,
+        "longitude": -7.5,
+        "type": "airport",
+        "elevation": 100
+      },
+      {
+        "name": "Casablanca – Mohamed V International Airport",
+        "icao_code": "GMMN",
+        "latitude": 35.1,
+        "longitude": -2.9,
+        "type": "airport",
+        "elevation": 50
+      },
+      {
+        "name": "Casablanca – TIT Mellil Airport",
+        "icao_code": "GMMT",
+        "latitude": 33.9,
+        "longitude": -5.5,
+        "type": "airport",
+        "elevation": 500
+      },
+      {
+        "name": "Nador – El Aroui International Airport",
+        "icao_code": "GMMW",
+        "latitude": 31.6,
+        "longitude": -8.0,
+        "type": "airport",
+        "elevation": 466
+      },
+      {
+        "name": "Marrakech – Menara International Airport",
+        "icao_code": "GMMX",
+        "latitude": 31.6,
+        "longitude": -8.0,
+        "type": "airport",
+        "elevation": 466
+      },
+      {
+        "type": "VOR",
+        "icao_code": "TNR",
+        "latitude": 35.734,
+        "longitude": -5.919,
+        "elevation": 30,
+        "frequency": "108.050 MHz"
+      },
+      {
+        "type": "DME",
+        "icao_code": "TAG",
+        "latitude": 35.734,
+        "longitude": -5.919,
+        "elevation": 30,
+        "frequency": "332.000 MHz"
+      },
+      {
+        "type": "NDB",
+        "icao_code": "TAN",
+        "latitude": 35.734,
+        "longitude": -5.919,
+        "elevation": 30,
+        "frequency": "374.000 KHz"
+      },
+      {
+        "type": "VOR",
+        "icao_code": "GMMI_VOR",
+        "latitude": 31.6,
+        "longitude": -8.0,
+        "elevation": 30,
+        "frequency": "112.300 MHz"
+      },
+      {
+        "type": "NDB",
+        "icao_code": "GMMI_NDB",
+        "latitude": 31.6,
+        "longitude": -8.0,
+        "elevation": 30,
+        "frequency": "400.000 KHz"
+      }
+
+]
